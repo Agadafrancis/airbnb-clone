@@ -41,8 +41,6 @@ Stay tuned for the unveiling of this Fullstack Airbnb clone, meticulously crafte
 #Fullstack #NextJS #WebDevelopment #AirbnbClone #TechInnovation
 
 
-< /br>
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
